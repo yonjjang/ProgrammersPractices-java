@@ -1,3 +1,4 @@
+package DFS2;
 class Solution {
     public int minDepth = 50;
     public int solution(String begin, String target, String[] words) {

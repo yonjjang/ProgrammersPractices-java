@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BFS1"/>
+	<classpathentry kind="src" path="DFS1"/>
+	<classpathentry kind="src" path="DFS2"/>
+	<classpathentry kind="src" path="DP1"/>
+	<classpathentry kind="src" path="Graph1"/>
+	<classpathentry kind="src" path="Greedy1"/>
+	<classpathentry kind="src" path="Hash1"/>
+	<classpathentry kind="src" path="Queue1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

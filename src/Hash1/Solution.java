@@ -1,3 +1,4 @@
+package Hash1;
 import java.util.HashMap;
 import java.util.Set;
 

@@ -1,3 +1,4 @@
+package BFS1;
 import java.util.Queue;
 import java.util.LinkedList;
 class Solution {
